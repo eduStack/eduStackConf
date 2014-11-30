@@ -1,0 +1,4 @@
+eduStackConf
+============
+
+Some scripts
